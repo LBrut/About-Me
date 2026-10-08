@@ -7,7 +7,7 @@
   <a href=https://www.linkedin.com/in/lanchelbrutus/?isSelfProfile=true>
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="[Your Portfolio or Personal Website URL]" target="_blank">
+  <a href="https://github.com/LBrut/AI-Governance-Portfolio-Project-Automated-Loan-Underwriting-System" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:LanchelBrutus@gmail.com">
