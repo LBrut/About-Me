@@ -10,7 +10,7 @@
   <a href="[Your Portfolio or Personal Website URL]" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:[Your Email Address]">
+  <a href="mailto:LanchelBrutus@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
