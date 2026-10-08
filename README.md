@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="[Your Portfolio or Personal Website URL]" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://github.com/LBrut/AI-Governance-Portfolio-Project-Automated-Loan-Underwriting-System" />
   </a>
   <a href="mailto:LanchelBrutus@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -65,4 +65,4 @@ The system used a third-party AI model to evaluate small business loan applicati
 Because the system affected access to credit and automated approximately **94% of application decisions**, I assessed it as a high-risk AI use case.
 
 
-[View the Project Repository](https://github.com/francoisarthanas/AI-Governance-Portfolio-Project-Automated-Loan-Underwriting-System) -> Replace this link with your own portfolio link and then remove this
+[View the Project Repository](https://github.com/LBrut/AI-Governance-Portfolio-Project-Automated-Loan-Underwriting-System)
